@@ -230,3 +230,15 @@
                 padding: 35px 0px;
             }
         }
+        .contacto{
+          color: antiquewhite;
+          background-image: url(../assets/img/redcharlie-mugDbuNnbd0-unsplash.jpg);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-direction: column;
+          padding: 30px 30px 30px;
+        }
+        .mapa{
+          padding-left: 20px;
+        }
